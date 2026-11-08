@@ -1,0 +1,9 @@
+{
+  "name": "Термометр ТМ-1",
+  "manufacturer": null,
+  "specs": {
+    "диапазон измерений": "−50…+50 °C",
+    "исполнение": null
+  },
+  "description": null
+}
